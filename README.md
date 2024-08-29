@@ -1,20 +1,6 @@
+# 🛠️ [My Project Portfolio](https://jmalone.gitbook.io/jmalone)
 
-
-<h1 align=center>wsup!</h1>
-<div>
-  <ul>
-    <li>I'm <a href="https://jmalone.gitbook.io/jmalone"> JMalone and here you can view my the portfolio </a></li>
-  </ul>
-</div>
-
----
-## About me
-## We are JMalone, your trusted partner in the world of blockchain. Like our masterminds, we strive to maximize security and transparency for our clients.
----
-
-# 🛠️ My Project Portfolio
-
-Welcome to my GitHub repository! Here, you can explore a selection of the projects I've worked on, ranging from web development to data analysis. Each project reflects my passion for coding, creativity, and problem-solving. Feel free to explore the code, try out the demos, and connect with me on social media.
+We are JMalone, your trusted partner in the world of blockchain. Like our masterminds, we strive to maximize security and transparency for our clients.
 
 ## 🚀 My Active in Projects
 
