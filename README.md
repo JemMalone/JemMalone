@@ -17,7 +17,7 @@ We are JMalone, your trusted partner in the world of blockchain. Like our master
 
 ## 📱 Connect with Me
 
-If you like my work or want to collaborate, let's connect! I'm always open to new opportunities and ideas.
+If you like our work or want to collaborate, let's connect! We a always open to new opportunities and ideas.
 
 - **X:** [@JemaMalone](https://x.com/JemaMalone)
 - **Discord:** [jemalone](https://discord.com/users/961409423828455424)
