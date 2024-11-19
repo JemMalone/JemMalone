@@ -14,6 +14,7 @@ We are JMalone, your trusted partner in the world of blockchain. Like our master
 | **Nillion** | A secure multiparty computation network allowing private data sharing without revealing the data itself. | MPC, Zero-Knowledge, Rust | [View active](https://testnet.nillion.explorers.guru/validator/nillionvaloper18yevchysrxy6hfv502xtu2rcchcfarrwe7t9x6) |
 | **0G** | A decentralized network offering ultra-low latency and high bandwidth for real-time applications like VR and gaming. | Blockchain, P2P, Rust | [View active](https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1teglxdw4f69h7tc9wxw78nu9q4k4kg33pwplrx) |
 | **Dymension** | A modular blockchain framework for building scalable, interoperable decentralized applications. | Cosmos SDK, Tendermint, Go | [View active](https://devnet.dymension.xyz/rollapp/jmalone_2241466-1/metrics) |
+| **Hemi** | Hemi Network is a blockchain infrastructure platform designed for scalability, security, and interoperability.  | One Network, Powered by  Bitcoin and  Ethereum. | [View active](https://jm.frayken.lol/jmalone/testnets/hemi-network) |
 
 ## 📱 Connect with Me
 
